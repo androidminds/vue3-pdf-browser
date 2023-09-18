@@ -1,0 +1,26 @@
+{
+  "name": "vie3-pdf-browser",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "mitt": "^3.0.1",
+    "vue": "^3.3.4",
+    "vue-i18n": "^9.4.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.0.2",
+    "typography": "^0.16.24",
+    "vite": "^4.4.5",
+    "vue-tsc": "^1.8.5"
+  }
+}
